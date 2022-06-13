@@ -1,4 +1,4 @@
-# BS4 - IMDB Upcoming Films
+# BS4 - IMDB Upcoming Movies
 
 A simple web scraping script which collates data for upcoming films for the current month from IMDB, and stores this into a .csv file.
 
