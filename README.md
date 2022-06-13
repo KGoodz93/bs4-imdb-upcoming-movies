@@ -8,6 +8,6 @@ Once this script has been executed, this will create a .csv file in the same dir
 
 imdb-upcoming-films-YYYY-MM
 
-Title
-Length
-Description
+* Title
+* Length
+* Description
